@@ -1,0 +1,9 @@
+[run]
+source = ./codigo
+
+[report]
+exclude_lines =
+    def teste_idade()
+
+[html]
+directory = coverage_relatorio_html
