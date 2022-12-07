@@ -4,7 +4,6 @@ Curso de testes unitários com a linguagem Python para auxiliar as equipes nos p
 ## Como executar o projeto
 
 * Ter o VS Code instalado
-* Ter a versão do Selenium Webdriver compatível com a versão do seu navegador Google Chrome
 * Importante ter o Python 3 instalado (versão 3.11.0 ou superior)
 
 ### Instalar o Pytest
